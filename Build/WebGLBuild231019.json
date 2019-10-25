@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Cool Game",
-"dataUrl": "https://github.com/orYakov/Cool-Game/blob/master/WebGLBuild231019/Build/WebGLBuild231019.data.unityweb",
+"dataUrl": "WebGLBuild231019/Build/WebGLBuild231019.data.unityweb",
 "wasmCodeUrl": "WebGLBuild231019.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGLBuild231019.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
